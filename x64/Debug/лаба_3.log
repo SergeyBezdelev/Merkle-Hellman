@@ -1,0 +1,5 @@
+﻿  Merkle&Hellman.cpp
+C:\Users\Sergo\Desktop\Основы криптографических методов\Программы\лаб_3.3\Merkle&Hellman.cpp(26,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Sergo\Desktop\Основы криптографических методов\Программы\лаб_3.3\Merkle&Hellman.cpp(36,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Sergo\Desktop\Основы криптографических методов\Программы\лаб_3.3\Merkle&Hellman.cpp(98,15): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  лаба_3.vcxproj -> C:\Users\Sergo\Desktop\Основы криптографических методов\Программы\лаб_3.3\x64\Debug\лаба_3.exe

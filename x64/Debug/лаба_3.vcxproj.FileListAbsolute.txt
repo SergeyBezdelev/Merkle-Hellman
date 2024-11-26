@@ -1,0 +1,3 @@
+C:\Users\Sergo\Desktop\лаба_3\x64\Debug\лаба_3.exe
+C:\Users\Sergo\Desktop\Основы криптографических методов\Программы\лаба_3.3\x64\Debug\лаба_3.exe
+C:\Users\Sergo\Desktop\Основы криптографических методов\Программы\лаб_3.3\x64\Debug\лаба_3.exe
